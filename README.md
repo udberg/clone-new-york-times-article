@@ -5,7 +5,6 @@
 A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS PROPERTIES
 
 
-
 ## Built With
 
 - HTML
@@ -38,6 +37,9 @@ Run tests to check the HTML and CSS files.
 
 Install and run a live server plugin on your Text editor.
 
+## Live Demo
+
+[Live Demo Link](https://rawgithack.com/udberg/clone-new-york-times-article)
 
 ## Authors
 
