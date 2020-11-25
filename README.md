@@ -55,8 +55,6 @@ Install and run a live server plugin on your Text editor.
 👤 KCnicks
 
 - GitHub: [@KCnicks](https://github.com/KCnicks)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
