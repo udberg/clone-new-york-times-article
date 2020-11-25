@@ -1,0 +1,20 @@
+.mt-4 {
+  margin-top: 16px;
+}
+
+.mt-8 {
+  margin-top: 32px;
+}
+
+.mt-10 {
+  margin-top: 40px;
+}
+
+.mb-6 {
+  margin-bottom: 24px;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
