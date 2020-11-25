@@ -1,0 +1,31 @@
+.text--sm {
+  font-size: 13px;
+}
+
+.text--lg {
+  font-size: 18px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.font--semibold {
+  font-weight: 600;
+}
+
+.text--gray-500 {
+  color: var(--gray-500);
+}
+
+.text--primary {
+  color: var(--primary-dark);
+}
+
+.text--gray-900 {
+  color: var(--gray-900);
+}
