@@ -1,11 +1,7 @@
 
 New York Times Article 
 
-> One paragraph statement about the project.
-
-
-
-Additional description about the project and its features.
+A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS PROPERTIES
 
 ## Built With
 
