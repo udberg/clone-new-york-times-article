@@ -1,28 +1,29 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+New York Times Article 
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](screenshort.jpg)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML
+- CSS3
+- Font Awesome, Google Font
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps.
+
+git clone https://github.com/abeidahmed/nyt-article-clone.git
+cd nyt-article-clone
+git checkout -b article-clone
+git pull
+If you have vscode live-server installed, run it and open localhost:3000
 
 
 To get a local copy up and running follow these simple example steps.
@@ -43,15 +44,15 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 udberg
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/udberg)
+- Twitter: [@twitterhandle](https://twitter.com/juduak_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uduak-john-090059105/)
 
-👤 **Author2**
+👤 KCnicks
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/KCnicks
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
@@ -65,11 +66,6 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
