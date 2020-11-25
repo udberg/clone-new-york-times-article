@@ -1,10 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 New York Times Article 
 
 > One paragraph statement about the project.
 
-![screenshot](screenshort.jpg)
+
 
 Additional description about the project and its features.
 
@@ -48,13 +47,13 @@ Install and run a live server plugin on your Text editor.
 
 👤 udberg
 
-- GitHub: [@githubhandle](https://github.com/udberg)
-- Twitter: [@twitterhandle](https://twitter.com/juduak_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uduak-john-090059105/)
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
 👤 KCnicks
 
-- GitHub: [@githubhandle](https://github.com/KCnicks
+- GitHub: [@KCnicks](https://github.com/KCnicks
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
