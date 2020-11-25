@@ -1,0 +1,24 @@
+.card h4 {
+  color: var(--gray-900);
+  transition: all 100ms ease-in-out;
+}
+
+.card:hover h4 {
+  color: var(--gray-500);
+}
+
+.card__title {
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.card__title--spaced {
+  padding: 8px 0;
+  display: block;
+  color: var(--gray-900);
+  text-decoration: none;
+}
+
+.card__title--spaced:hover {
+  text-decoration: underline;
+}
