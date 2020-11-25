@@ -12,11 +12,6 @@ A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS 
 - CSS
 - FONT AWESOME, GOOGLE FONT
 
-## Live Demo
-
-[Live Demo Link](https://codepen.io/udberg/full/bGwbKWX)
-
-
 ## To get a local copy up and running follow these simple example steps.
 
 git clone https://github.com/udberg/clone-new-york-times-article.git
