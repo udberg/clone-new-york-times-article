@@ -68,7 +68,10 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgement
 
+Hat tip to New York Times
+Hat tip to Microverse for their README template.
 
 ## 📝 License
 
