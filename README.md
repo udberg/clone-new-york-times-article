@@ -17,30 +17,32 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+## To get a local copy up and running follow these simple example steps.
 
-git clone https://github.com/abeidahmed/nyt-article-clone.git
-cd nyt-article-clone
+git clone https://github.com/udberg/clone-new-york-times-article.git
+
+cd new-york times article
+
 git checkout -b article-clone
+
 git pull
+
 If you have vscode live-server installed, run it and open localhost:3000
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
 ### Setup
 
-### Install
+Clone the project locally.
 
-### Usage
+### Linters
 
-### Run tests
+Run NPM locally
+Run tests to check the HTML and CSS files.
+
 
 ### Deployment
 
-
+Install and run a live server plugin on your Text editor.
 
 ## Authors
 
