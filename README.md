@@ -1,18 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# NEW YORK TIMES ARTICLE CLONE
 
-> One paragraph statement about the project.
+A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS PROPERTIES
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- FONT AWESOME, GOOGLE FONT
 
 ## Live Demo
 
@@ -33,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-### Usage
+
 
 ### Run tests
 
@@ -43,15 +42,15 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 udberg
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/udberg)
+- Twitter: [@twitterhandle](https://twitter.com/juduak_)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uduak-john-090059105/)
 
-👤 **Author2**
+👤 KCnicks
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/KCnicks)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
@@ -65,11 +64,7 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
