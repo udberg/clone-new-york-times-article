@@ -58,7 +58,7 @@ Install and run a live server plugin on your Text editor.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/udberg/clone-new-york-times-article/issues).
 
 ## Show your support
 
