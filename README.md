@@ -6,7 +6,6 @@ A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS 
 
 
 
-
 ## Built With
 
 - HTML
@@ -44,13 +43,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 udberg
 
-- GitHub: [@githubhandle](https://github.com/udberg)
-- Twitter: [@twitterhandle](https://twitter.com/juduak_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uduak-john-090059105/)
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
 👤 KCnicks
 
-- GitHub: [@githubhandle](https://github.com/KCnicks)
+- GitHub: [@KCnicks](https://github.com/KCnicks)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
