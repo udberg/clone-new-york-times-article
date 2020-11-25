@@ -21,12 +21,7 @@ git checkout -b article-clone
 
 git pull
 
-If you have vscode live-server installed, run it and open localhost:3000
-
-
-### Setup
-
-Clone the project locally.
+If you have vscode live-server installed, run it and open localhost in your browser
 
 ### Linters
 
@@ -40,7 +35,7 @@ Install and run a live server plugin on your Text editor.
 
 ## Live Demo
 
-[Live Demo Link](https://rawgithack.com/udberg/clone-new-york-times-article)
+[Live Demo Link]( https://udberg.github.io/clone-new-york-times-article/)
 
 ## Authors
 
@@ -74,4 +69,4 @@ Hat tip to Microverse for their README template.
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) licensed.
