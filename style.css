@@ -1,0 +1,276 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.grid {
+  display: grid;
+}
+
+.margin {
+  margin: 0 auto;
+}
+
+.link {
+  text-decoration: underline;
+  color: rgb(38, 128, 245);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  height: 50px;
+  background-color: white;
+  border-bottom: 1px solid #bbb;
+  width: 100%;
+}
+
+.first {
+  width: 250px;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 10px 15px;
+}
+
+.center {
+  padding: 10px 0;
+}
+
+.center img {
+  width: 200px;
+}
+
+.last {
+  padding: 10px 20px;
+}
+
+.last button {
+  color: white;
+  background-color: rgb(50, 104, 145);
+  font-weight: 500;
+  border: none;
+  border-color: rgb(50, 104, 146);
+  padding: 10px 20px;
+  border-radius: 3px;
+}
+
+section {
+  width: 75%;
+  margin: 100px 0 0 0;
+}
+
+.main-header {
+  margin: 100px auto 20px auto;
+  font-size: 25px;
+  width: 600px;
+  text-align: center;
+}
+
+.main-img {
+  width: 100%;
+}
+
+.main-img-container figcaption {
+  color: rgb(160, 160, 160);
+  width: 70%;
+}
+
+.main-width {
+  width: 50%;
+  margin: 20px auto;
+  line-height: 40px;
+  font-size: 18px;
+}
+
+.icons {
+  font-size: 20px;
+  padding: 0 10px;
+  width: 200px;
+  margin: 10px 0 10px 0;
+}
+
+.artc-h {
+  margin: 15px 0;
+}
+
+.margin-sec {
+  margin: 15px auto;
+}
+
+.editor-pick {
+  width: 180px;
+  text-align: center;
+  float: right;
+  margin: 1200px 50px 0 0;
+}
+
+.editor-pick figure {
+  padding: 5px;
+  width: 100%;
+}
+
+.editor-pick img {
+  width: 60px;
+}
+
+.inflation-div {
+  width: 75%;
+  font-size: 12px;
+}
+
+.inflation {
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 1em;
+  column-gap: 1em;
+}
+
+.margin-video {
+  margin-left: 50px;
+}
+
+.img-w {
+  width: 100%;
+  height: auto;
+}
+
+.jumbo-2 {
+  font-size: 14px;
+  width: 600px;
+  color: #bbb;
+  line-height: 15px;
+}
+
+.article-end {
+  font-size: 12px;
+  color: rgb(155, 155, 155);
+}
+
+.article-footer button {
+  color: rgb(255, 255, 255);
+  background-color: rgb(50, 104, 147);
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: 500;
+  border: none;
+  border-radius: 3px;
+}
+
+.footer-icons {
+  width: 150px;
+}
+
+.last-grid {
+  grid-template-columns: 2fr 1fr;
+  column-gap: 1em;
+  width: 95%;
+}
+
+.most-popular {
+  border-top: 1px solid black;
+  font-size: 16px;
+}
+
+.most-popular h4 {
+  padding: 12px;
+}
+
+.popular-items {
+  padding: 13px 0;
+  border-bottom: 1px solid #aaa;
+}
+
+.astronomy-item-div {
+  width: 600px;
+}
+
+.astronomy-item {
+  width: 300px;
+  padding: 10px 20px;
+}
+
+.astronomy-item img {
+  width: 100%;
+}
+
+.astronomy-2 {
+  width: 100%;
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.astronomy-3 {
+  width: 100%;
+}
+
+.last-picks {
+  margin: 30px 0;
+}
+
+.empty {
+  border-top: 1px solid rgb(182, 182, 182);
+  border-bottom: 1px solid rgb(182, 182, 184);
+  width: 99%;
+  height: 3px;
+}
+
+.links-grid {
+  width: 90%;
+}
+
+.last-links-head {
+  margin: 20px 0;
+  font-size: 12.1px;
+}
+
+.last-links {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.links-box {
+  width: 150px;
+  font-size: 13.5px;
+  flex-direction: column;
+}
+
+.m-subscribe {
+  padding-left: 10px;
+  border-left: 1px solid rgb(163, 163, 163);
+}
+
+footer {
+  font-size: 13px;
+  margin: 20px 0 100px 0;
+  padding: 20px;
+  border-top: 1px solid rgb(196, 196, 196);
+}
+
+footer a {
+  color: rgb(158, 158, 158);
+}
+
+.bottom-nav {
+  background-color: white;
+  font-size: small;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 70px;
+  border-top: 1px solid #000;
+  overflow: hidden;
+  text-align: center;
+  padding: 20px;
+}
