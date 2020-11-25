@@ -19,24 +19,29 @@ A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+git clone https://github.com/udberg/clone-new-york-times-article.git
+
+cd new-york times article
+
+git checkout -b article-clone
+
+git pull
+
+If you have vscode live-server installed, run it and open localhost:3000
 
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+
 
 ### Setup
 
-### Install
+Clone the project locally.
 
+### Linters
 
-
-### Run tests
-
-### Deployment
-
+Run NPM locally
+Run tests to check the HTML and CSS files.
 
 
 ## Authors
