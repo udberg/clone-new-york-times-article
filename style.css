@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  ::-webkit-input-placeholder {
+    text-align: center;}
+  
+  
+  body{
+    background:#8080ff;
+      line-height:1.7;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:1em;
+  
+  }
+  form{
+    text-align:center;
+    max-width:auto;
+    padding:1em;
+    
+  }
+  span{
+    color:white;
+  }
+  ul{
+    list-style:none;
+    padding:0;
+  }
+  .wrapper{
+    box-shadow:0 0 20px 0 rgba(72,94,116,0.7);
+    margin:0;
+    padding:0;
+  }
+  
+  .survey {
+    background:white;
+    line-height:3rem;
+    font-weight:bold;
+    padding:0;
+    margin:0;
+  }
+  textarea {
+    width:70%;
+    height:100px;
+    margin:5px;
+    padding:3px;
+  }
+  
+  
+  button{
+    width:25%;
+    height:50px;
+    margin-bottom:10px;
+    background: cyan;
+    border:0;
+    text-transform:uppercase;
+  }
+  button:hover,button:focus{
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    transition: background-color 1s ease-out;
+  }
+  .check{
+   display:block;
+  
+  }
