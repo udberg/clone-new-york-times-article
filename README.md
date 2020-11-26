@@ -4,7 +4,6 @@
 
 A CLONE OF A NEW YORK TIMES ARTICLE USING FLEX, GRID, FLOAT AND POSITIONING CSS PROPERTIES
 
-
 ## Built With
 
 - HTML
@@ -19,7 +18,6 @@ cd clone-new-york-times-article
 
 git checkout -b udberg-patch-1
 
-
 ### Linters
 
 Install some dependencies by running the following command
@@ -28,12 +26,15 @@ npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-s
 
 Run the following command to check linters
 
-npx stylelint "**/*.{css,scss}"
-
+npx stylelint "\*_/_.{css,scss}"
 
 ### Deployment
 
 Install and run a live server plugin on your Text editor.
+
+## Live Demo
+
+[Live Demo Link](https://udberg.github.io/clone-new-york-times-article/)
 
 ## Live Demo
 
@@ -44,7 +45,7 @@ Install and run a live server plugin on your Text editor.
 👤 udberg
 
 - GitHub: [@udberg](https://github.com/udberg)
-- Twitter: [@juduak_](https://twitter.com/juduak_)
+- Twitter: [@juduak\_](https://twitter.com/juduak_)
 - LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
 👤 KCnicks
